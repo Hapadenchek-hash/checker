@@ -1,0 +1,5 @@
+{
+  "name": "iiko Cloud API Checker",
+  "description": "A robust developer tool for testing iiko Cloud API endpoints, managing access tokens, and exploring organizational data, menus, and terminal groups.",
+  "requestFramePermissions": []
+}
